@@ -1,15 +1,5 @@
-const str = 'ES6';
-console.log(`Hello ${str}`);
+const Dog = require('./dog');
 
-let x = 7;
-console.log(x);
+const toby = new Dog('Toby');
 
-class Name {
-    first() {
-        return 'ben';
-    }
-}
-
-let name = new Name()
-
-console.log(name.first())
+console.log(toby.bark());
