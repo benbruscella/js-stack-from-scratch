@@ -10,5 +10,8 @@
     "start": "node ."
   },
   "author": "Ben Bruscella <benbruscella@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "color": "^0.11.3"
+  }
 }
