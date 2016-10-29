@@ -1,0 +1,14 @@
+{
+  "name": "js-stack-from-scratch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/benbruscella/js-stack-from-scratch.git",
+    "type": "git"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Ben Bruscella <benbruscella@gmail.com>",
+  "license": "MIT"
+}
